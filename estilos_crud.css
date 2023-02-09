@@ -1,0 +1,24 @@
+th{
+    text-align: center;
+}
+
+.table-bordered>tbody tr:hover{
+    background-color:#87c2e9
+}
+/*efecto de lineas de zebra*/
+
+tbody>tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+.container{
+    width: 50%;
+}
+
+input{
+    max-width: 50%;
+}
+
+button{
+    margin-left: 5px;
+    margin-right: 5px;
+}
